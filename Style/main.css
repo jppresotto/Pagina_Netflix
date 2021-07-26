@@ -40,7 +40,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/Pagina Netflix/img/fundo-house.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/fundo-house.jpg');
     /* linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%) 
      está aplicando um degrade na cor escolhida, aplica camada fina.
      .50 intensidade 
